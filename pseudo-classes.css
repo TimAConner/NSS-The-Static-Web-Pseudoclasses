@@ -17,6 +17,6 @@ span {
     Pseudo-classess
 ************/
 
-article section:nth-of-type(even) {
+.n-child section:nth-of-type(even) {
     border: 1px solid black;
 }
